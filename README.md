@@ -1,0 +1,1 @@
+#Welcome to Tae Kwon Do Straweberry - The most amazing chat application
